@@ -1,0 +1,37 @@
+#gap{
+  padding-left: 30px;
+}
+.text-center,.tc{
+  text-align: center;
+}
+.cat{
+  display: inline;
+  border-style: solid;
+  border-width: medium;
+  border-radius: 50px;
+  background-color: black;
+  color: aliceblue;
+  border-color: black;
+  margin-top: 10px;
+}
+
+#zoom:hover {
+  transform: scale(1.2); 
+  cursor: pointer;
+}
+
+nav{
+  background-color: rgb(239, 241, 241);
+}
+.mybtn{
+  background-color: rgb(59, 131, 44);
+  border-color:rgb(59, 131, 44);
+}
+
+#mybtn:hover{
+    background-color: rgb(49, 104, 109);
+}
+
+#asd{
+  border-color: black;
+}
